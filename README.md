@@ -47,6 +47,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br><br>
+
 # Algorithm
 This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
 
